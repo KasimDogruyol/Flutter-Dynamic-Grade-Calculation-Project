@@ -1,4 +1,6 @@
 # dinamik_not_ortalamasi
+![dinamik1](https://user-images.githubusercontent.com/100869012/209195158-33182885-0f82-4c94-8e19-ba331346f651.png)
+
 
 A new Flutter project.
 
